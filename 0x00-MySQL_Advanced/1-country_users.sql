@@ -1,3 +1,4 @@
+-- Adetunji Olasubomi
 -- Creates a table with unique users.
 DROP TABLE IF EXISTS users;
 CREATE TABLE users (
