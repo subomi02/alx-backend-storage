@@ -1,2 +1,2 @@
-// Deletes all documents with name="Holberton school" in the school collection.
+// Adetunji Olasubomi
 db.school.deleteMany({name: "Holberton school"});
