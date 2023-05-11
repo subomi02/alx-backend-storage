@@ -1,3 +1,3 @@
 # Redis basic
 
-Crated by Adetunji Olasubomi
+Created by Adetunji Olasubomi
